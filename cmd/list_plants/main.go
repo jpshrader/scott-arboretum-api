@@ -2,19 +2,23 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"io/fs"
 	"log"
 	"net/http"
 	"os"
 	"regexp"
+	"strings"
 )
 
 const PLANT_LIST_URL = "http://arbnav.scottarboretum.org/weboi/oecgi3.exe/INET_ECM_GET_NAMELIST?time=1677530091407&NAMETYPE=COMM&BOXMODE=1"
 const KEEP_DUPLICATES = false
 
 type plantListItem struct {
+	LookupName string `json:"lookupName"`
 	CommonName string `json:"commonName"`
+	CommonType string `json:"commonType"`
 }
 
 func main() {
@@ -59,8 +63,17 @@ func getPlantListItems(plantList string) ([]plantListItem, error) {
 			}
 
 			plantNameList[plantName] = true
+			normalizedName := plantName
+			typeName := ""
+			if strings.Contains(plantName, ",") {
+				split := strings.Split(plantName, ",")
+				typeName = strings.TrimSpace(split[0])
+				normalizedName = fmt.Sprintf("%s %s", strings.TrimSpace(split[1]), strings.TrimSpace(split[0]))
+			}
 			plantListItems = append(plantListItems, plantListItem{
-				CommonName: plantName,
+				LookupName: plantName,
+				CommonName: normalizedName,
+				CommonType: typeName,
 			})
 		}
 	}

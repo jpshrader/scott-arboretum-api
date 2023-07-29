@@ -1,1268 +1,2112 @@
 [
   {
-    "commonName": "Abelia"
+    "lookupName": "Abelia",
+    "commonName": "Abelia",
+    "commonType": ""
   },
   {
-    "commonName": "Abelialeaf"
+    "lookupName": "Abelialeaf",
+    "commonName": "Abelialeaf",
+    "commonType": ""
   },
   {
-    "commonName": "Adina"
+    "lookupName": "Adina",
+    "commonName": "Adina",
+    "commonType": ""
   },
   {
-    "commonName": "Alder"
+    "lookupName": "Alder",
+    "commonName": "Alder",
+    "commonType": ""
   },
   {
-    "commonName": "Alder, Witch"
+    "lookupName": "Alder, Witch",
+    "commonName": "Witch Alder",
+    "commonType": "Alder"
   },
   {
-    "commonName": "Allspice, Wild"
+    "lookupName": "Allspice, Wild",
+    "commonName": "Wild Allspice",
+    "commonType": "Allspice"
   },
   {
-    "commonName": "American Laurel"
+    "lookupName": "American Laurel",
+    "commonName": "American Laurel",
+    "commonType": ""
   },
   {
-    "commonName": "American Spikenard"
+    "lookupName": "American Spikenard",
+    "commonName": "American Spikenard",
+    "commonType": ""
   },
   {
-    "commonName": "Amorpha"
+    "lookupName": "Amorpha",
+    "commonName": "Amorpha",
+    "commonType": ""
   },
   {
-    "commonName": "Ampelaster"
+    "lookupName": "Ampelaster",
+    "commonName": "Ampelaster",
+    "commonType": ""
   },
   {
-    "commonName": "Andromeda"
+    "lookupName": "Andromeda",
+    "commonName": "Andromeda",
+    "commonType": ""
   },
   {
-    "commonName": "Anisostichus"
+    "lookupName": "Anisostichus",
+    "commonName": "Anisostichus",
+    "commonType": ""
   },
   {
-    "commonName": "Apple"
+    "lookupName": "Apple",
+    "commonName": "Apple",
+    "commonType": ""
   },
   {
-    "commonName": "Apricot"
+    "lookupName": "Apricot",
+    "commonName": "Apricot",
+    "commonType": ""
   },
   {
-    "commonName": "Aralia"
+    "lookupName": "Aralia",
+    "commonName": "Aralia",
+    "commonType": ""
   },
   {
-    "commonName": "Araucaria"
+    "lookupName": "Araucaria",
+    "commonName": "Araucaria",
+    "commonType": ""
   },
   {
-    "commonName": "Arborvitae"
+    "lookupName": "Arborvitae",
+    "commonName": "Arborvitae",
+    "commonType": ""
   },
   {
-    "commonName": "Arborvitae, False"
+    "lookupName": "Arborvitae, False",
+    "commonName": "False Arborvitae",
+    "commonType": "Arborvitae"
   },
   {
-    "commonName": "Arborvitae, Hiba"
+    "lookupName": "Arborvitae, Hiba",
+    "commonName": "Hiba Arborvitae",
+    "commonType": "Arborvitae"
   },
   {
-    "commonName": "Arcterica"
+    "lookupName": "Arcterica",
+    "commonName": "Arcterica",
+    "commonType": ""
   },
   {
-    "commonName": "Arrowwood"
+    "lookupName": "Arrowwood",
+    "commonName": "Arrowwood",
+    "commonType": ""
   },
   {
-    "commonName": "Asarabacca"
+    "lookupName": "Asarabacca",
+    "commonName": "Asarabacca",
+    "commonType": ""
   },
   {
-    "commonName": "Ash"
+    "lookupName": "Ash",
+    "commonName": "Ash",
+    "commonType": ""
   },
   {
-    "commonName": "Ash, Mountain"
+    "lookupName": "Ash, Mountain",
+    "commonName": "Mountain Ash",
+    "commonType": "Ash"
   },
   {
-    "commonName": "Aucuba"
+    "lookupName": "Aucuba",
+    "commonName": "Aucuba",
+    "commonType": ""
   },
   {
-    "commonName": "Azalea"
+    "lookupName": "Azalea",
+    "commonName": "Azalea",
+    "commonType": ""
   },
   {
-    "commonName": "Baccharis"
+    "lookupName": "Baccharis",
+    "commonName": "Baccharis",
+    "commonType": ""
   },
   {
-    "commonName": "Baldcypress"
+    "lookupName": "Baldcypress",
+    "commonName": "Baldcypress",
+    "commonType": ""
   },
   {
-    "commonName": "Bamboo"
+    "lookupName": "Bamboo",
+    "commonName": "Bamboo",
+    "commonType": ""
   },
   {
-    "commonName": "Barberry"
+    "lookupName": "Barberry",
+    "commonName": "Barberry",
+    "commonType": ""
   },
   {
-    "commonName": "Basswood"
+    "lookupName": "Basswood",
+    "commonName": "Basswood",
+    "commonType": ""
   },
   {
-    "commonName": "Bean Tree"
+    "lookupName": "Bean Tree",
+    "commonName": "Bean Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Bean, Indian"
+    "lookupName": "Bean, Indian",
+    "commonName": "Indian Bean",
+    "commonType": "Bean"
   },
   {
-    "commonName": "Beautyberry"
+    "lookupName": "Beautyberry",
+    "commonName": "Beautyberry",
+    "commonType": ""
   },
   {
-    "commonName": "Beautybush"
+    "lookupName": "Beautybush",
+    "commonName": "Beautybush",
+    "commonType": ""
   },
   {
-    "commonName": "Bignonia"
+    "lookupName": "Bignonia",
+    "commonName": "Bignonia",
+    "commonType": ""
   },
   {
-    "commonName": "Bigtree"
+    "lookupName": "Bigtree",
+    "commonName": "Bigtree",
+    "commonType": ""
   },
   {
-    "commonName": "Bilberry"
+    "lookupName": "Bilberry",
+    "commonName": "Bilberry",
+    "commonType": ""
   },
   {
-    "commonName": "Birch"
+    "lookupName": "Birch",
+    "commonName": "Birch",
+    "commonType": ""
   },
   {
-    "commonName": "Birthwort"
+    "lookupName": "Birthwort",
+    "commonName": "Birthwort",
+    "commonType": ""
   },
   {
-    "commonName": "Bittersweet"
+    "lookupName": "Bittersweet",
+    "commonName": "Bittersweet",
+    "commonType": ""
   },
   {
-    "commonName": "Black Gum"
+    "lookupName": "Black Gum",
+    "commonName": "Black Gum",
+    "commonType": ""
   },
   {
-    "commonName": "Blackberry"
+    "lookupName": "Blackberry",
+    "commonName": "Blackberry",
+    "commonType": ""
   },
   {
-    "commonName": "Bladdernut"
+    "lookupName": "Bladdernut",
+    "commonName": "Bladdernut",
+    "commonType": ""
   },
   {
-    "commonName": "Bluebeard"
+    "lookupName": "Bluebeard",
+    "commonName": "Bluebeard",
+    "commonType": ""
   },
   {
-    "commonName": "Blueberry"
+    "lookupName": "Blueberry",
+    "commonName": "Blueberry",
+    "commonType": ""
   },
   {
-    "commonName": "Bower Berry"
+    "lookupName": "Bower Berry",
+    "commonName": "Bower Berry",
+    "commonType": ""
   },
   {
-    "commonName": "Box"
+    "lookupName": "Box",
+    "commonName": "Box",
+    "commonType": ""
   },
   {
-    "commonName": "Boxelder"
+    "lookupName": "Boxelder",
+    "commonName": "Boxelder",
+    "commonType": ""
   },
   {
-    "commonName": "Boxwood"
+    "lookupName": "Boxwood",
+    "commonName": "Boxwood",
+    "commonType": ""
   },
   {
-    "commonName": "Bramble"
+    "lookupName": "Bramble",
+    "commonName": "Bramble",
+    "commonType": ""
   },
   {
-    "commonName": "Bridal-Wreath"
+    "lookupName": "Bridal-Wreath",
+    "commonName": "Bridal-Wreath",
+    "commonType": ""
   },
   {
-    "commonName": "Brier"
+    "lookupName": "Brier",
+    "commonName": "Brier",
+    "commonType": ""
   },
   {
-    "commonName": "Broom"
+    "lookupName": "Broom",
+    "commonName": "Broom",
+    "commonType": ""
   },
   {
-    "commonName": "Buckeye"
+    "lookupName": "Buckeye",
+    "commonName": "Buckeye",
+    "commonType": ""
   },
   {
-    "commonName": "Buckthorn"
+    "lookupName": "Buckthorn",
+    "commonName": "Buckthorn",
+    "commonType": ""
   },
   {
-    "commonName": "Buddleja"
+    "lookupName": "Buddleja",
+    "commonName": "Buddleja",
+    "commonType": ""
   },
   {
-    "commonName": "Bush Clover"
+    "lookupName": "Bush Clover",
+    "commonName": "Bush Clover",
+    "commonType": ""
   },
   {
-    "commonName": "Bush Honeysuckle"
+    "lookupName": "Bush Honeysuckle",
+    "commonName": "Bush Honeysuckle",
+    "commonType": ""
   },
   {
-    "commonName": "Butternut"
+    "lookupName": "Butternut",
+    "commonName": "Butternut",
+    "commonType": ""
   },
   {
-    "commonName": "Buttonbush"
+    "lookupName": "Buttonbush",
+    "commonName": "Buttonbush",
+    "commonType": ""
   },
   {
-    "commonName": "Buttonwood"
+    "lookupName": "Buttonwood",
+    "commonName": "Buttonwood",
+    "commonType": ""
   },
   {
-    "commonName": "Cactus, Cholla"
+    "lookupName": "Cactus, Cholla",
+    "commonName": "Cholla Cactus",
+    "commonType": "Cactus"
   },
   {
-    "commonName": "California Lilac"
+    "lookupName": "California Lilac",
+    "commonName": "California Lilac",
+    "commonType": ""
   },
   {
-    "commonName": "Camellia"
+    "lookupName": "Camellia",
+    "commonName": "Camellia",
+    "commonType": ""
   },
   {
-    "commonName": "Campylotropis"
+    "lookupName": "Campylotropis",
+    "commonName": "Campylotropis",
+    "commonType": ""
   },
   {
-    "commonName": "Candytuft"
+    "lookupName": "Candytuft",
+    "commonName": "Candytuft",
+    "commonType": ""
   },
   {
-    "commonName": "Cane"
+    "lookupName": "Cane",
+    "commonName": "Cane",
+    "commonType": ""
   },
   {
-    "commonName": "Cardiandra"
+    "lookupName": "Cardiandra",
+    "commonName": "Cardiandra",
+    "commonType": ""
   },
   {
-    "commonName": "Carpet Juniper"
+    "lookupName": "Carpet Juniper",
+    "commonName": "Carpet Juniper",
+    "commonType": ""
   },
   {
-    "commonName": "Catalpa"
+    "lookupName": "Catalpa",
+    "commonName": "Catalpa",
+    "commonType": ""
   },
   {
-    "commonName": "Catawba"
+    "lookupName": "Catawba",
+    "commonName": "Catawba",
+    "commonType": ""
   },
   {
-    "commonName": "Ceanothus"
+    "lookupName": "Ceanothus",
+    "commonName": "Ceanothus",
+    "commonType": ""
   },
   {
-    "commonName": "Cedar"
+    "lookupName": "Cedar",
+    "commonName": "Cedar",
+    "commonType": ""
   },
   {
-    "commonName": "Cedar, Incense"
+    "lookupName": "Cedar, Incense",
+    "commonName": "Incense Cedar",
+    "commonType": "Cedar"
   },
   {
-    "commonName": "Cherry"
+    "lookupName": "Cherry",
+    "commonName": "Cherry",
+    "commonType": ""
   },
   {
-    "commonName": "Cherry Laurel"
+    "lookupName": "Cherry Laurel",
+    "commonName": "Cherry Laurel",
+    "commonType": ""
   },
   {
-    "commonName": "Chestnut"
+    "lookupName": "Chestnut",
+    "commonName": "Chestnut",
+    "commonType": ""
   },
   {
-    "commonName": "Chestnut, Horse"
+    "lookupName": "Chestnut, Horse",
+    "commonName": "Horse Chestnut",
+    "commonType": "Chestnut"
   },
   {
-    "commonName": "China Fir"
+    "lookupName": "China Fir",
+    "commonName": "China Fir",
+    "commonType": ""
   },
   {
-    "commonName": "Choisya"
+    "lookupName": "Choisya",
+    "commonName": "Choisya",
+    "commonType": ""
   },
   {
-    "commonName": "Chokeberry"
+    "lookupName": "Chokeberry",
+    "commonName": "Chokeberry",
+    "commonType": ""
   },
   {
-    "commonName": "Chokecherry"
+    "lookupName": "Chokecherry",
+    "commonName": "Chokecherry",
+    "commonType": ""
   },
   {
-    "commonName": "Cholla"
+    "lookupName": "Cholla",
+    "commonName": "Cholla",
+    "commonType": ""
   },
   {
-    "commonName": "Cholla Cactus"
+    "lookupName": "Cholla Cactus",
+    "commonName": "Cholla Cactus",
+    "commonType": ""
   },
   {
-    "commonName": "Cliftonia"
+    "lookupName": "Cliftonia",
+    "commonName": "Cliftonia",
+    "commonType": ""
   },
   {
-    "commonName": "Climbing Hydrangea"
+    "lookupName": "Climbing Hydrangea",
+    "commonName": "Climbing Hydrangea",
+    "commonType": ""
   },
   {
-    "commonName": "Clover, Bush"
+    "lookupName": "Clover, Bush",
+    "commonName": "Bush Clover",
+    "commonType": "Clover"
   },
   {
-    "commonName": "Coffeetree"
+    "lookupName": "Coffeetree",
+    "commonName": "Coffeetree",
+    "commonType": ""
   },
   {
-    "commonName": "Corkwood"
+    "lookupName": "Corkwood",
+    "commonName": "Corkwood",
+    "commonType": ""
   },
   {
-    "commonName": "Cornel"
+    "lookupName": "Cornel",
+    "commonName": "Cornel",
+    "commonType": ""
   },
   {
-    "commonName": "Cotoneaster"
+    "lookupName": "Cotoneaster",
+    "commonName": "Cotoneaster",
+    "commonType": ""
   },
   {
-    "commonName": "Crabapple"
+    "lookupName": "Crabapple",
+    "commonName": "Crabapple",
+    "commonType": ""
   },
   {
-    "commonName": "Cranberry"
+    "lookupName": "Cranberry",
+    "commonName": "Cranberry",
+    "commonType": ""
   },
   {
-    "commonName": "Creeper, Virginia"
+    "lookupName": "Creeper, Virginia",
+    "commonName": "Virginia Creeper",
+    "commonType": "Creeper"
   },
   {
-    "commonName": "Crepemyrtle"
+    "lookupName": "Crepemyrtle",
+    "commonName": "Crepemyrtle",
+    "commonType": ""
   },
   {
-    "commonName": "Croton"
+    "lookupName": "Croton",
+    "commonName": "Croton",
+    "commonType": ""
   },
   {
-    "commonName": "Crown Plant"
+    "lookupName": "Crown Plant",
+    "commonName": "Crown Plant",
+    "commonType": ""
   },
   {
-    "commonName": "Cuprocyparis"
+    "lookupName": "Cuprocyparis",
+    "commonName": "Cuprocyparis",
+    "commonType": ""
   },
   {
-    "commonName": "Cypress"
+    "lookupName": "Cypress",
+    "commonName": "Cypress",
+    "commonType": ""
   },
   {
-    "commonName": "Cypress, False"
+    "lookupName": "Cypress, False",
+    "commonName": "False Cypress",
+    "commonType": "Cypress"
   },
   {
-    "commonName": "Cypress, Japanese"
+    "lookupName": "Cypress, Japanese",
+    "commonName": "Japanese Cypress",
+    "commonType": "Cypress"
   },
   {
-    "commonName": "Cypress, Siberian"
+    "lookupName": "Cypress, Siberian",
+    "commonName": "Siberian Cypress",
+    "commonType": "Cypress"
   },
   {
-    "commonName": "Dalbergia"
+    "lookupName": "Dalbergia",
+    "commonName": "Dalbergia",
+    "commonType": ""
   },
   {
-    "commonName": "Danae"
+    "lookupName": "Danae",
+    "commonName": "Danae",
+    "commonType": ""
   },
   {
-    "commonName": "Daphne"
+    "lookupName": "Daphne",
+    "commonName": "Daphne",
+    "commonType": ""
   },
   {
-    "commonName": "Daphniphyllum"
+    "lookupName": "Daphniphyllum",
+    "commonName": "Daphniphyllum",
+    "commonType": ""
   },
   {
-    "commonName": "Dawn Redwood"
+    "lookupName": "Dawn Redwood",
+    "commonName": "Dawn Redwood",
+    "commonType": ""
   },
   {
-    "commonName": "Decaisnea"
+    "lookupName": "Decaisnea",
+    "commonName": "Decaisnea",
+    "commonType": ""
   },
   {
-    "commonName": "Deutzia"
+    "lookupName": "Deutzia",
+    "commonName": "Deutzia",
+    "commonType": ""
   },
   {
-    "commonName": "Devil's Walkingstick"
+    "lookupName": "Devil's Walkingstick",
+    "commonName": "Devil's Walkingstick",
+    "commonType": ""
   },
   {
-    "commonName": "Dewberry"
+    "lookupName": "Dewberry",
+    "commonName": "Dewberry",
+    "commonType": ""
   },
   {
-    "commonName": "Dichroa"
+    "lookupName": "Dichroa",
+    "commonName": "Dichroa",
+    "commonType": ""
   },
   {
-    "commonName": "Dipelta"
+    "lookupName": "Dipelta",
+    "commonName": "Dipelta",
+    "commonType": ""
   },
   {
-    "commonName": "Disanthus"
+    "lookupName": "Disanthus",
+    "commonName": "Disanthus",
+    "commonType": ""
   },
   {
-    "commonName": "Distylium"
+    "lookupName": "Distylium",
+    "commonName": "Distylium",
+    "commonType": ""
   },
   {
-    "commonName": "Doghobble"
+    "lookupName": "Doghobble",
+    "commonName": "Doghobble",
+    "commonType": ""
   },
   {
-    "commonName": "Dogwood"
+    "lookupName": "Dogwood",
+    "commonName": "Dogwood",
+    "commonType": ""
   },
   {
-    "commonName": "Dove Tree"
+    "lookupName": "Dove Tree",
+    "commonName": "Dove Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Dutchman's Pipe"
+    "lookupName": "Dutchman's Pipe",
+    "commonName": "Dutchman's Pipe",
+    "commonType": ""
   },
   {
-    "commonName": "Elder"
+    "lookupName": "Elder",
+    "commonName": "Elder",
+    "commonType": ""
   },
   {
-    "commonName": "Elderberry"
+    "lookupName": "Elderberry",
+    "commonName": "Elderberry",
+    "commonType": ""
   },
   {
-    "commonName": "Eleutherococcus"
+    "lookupName": "Eleutherococcus",
+    "commonName": "Eleutherococcus",
+    "commonType": ""
   },
   {
-    "commonName": "Elm"
+    "lookupName": "Elm",
+    "commonName": "Elm",
+    "commonType": ""
   },
   {
-    "commonName": "Elsholtzia"
+    "lookupName": "Elsholtzia",
+    "commonName": "Elsholtzia",
+    "commonType": ""
   },
   {
-    "commonName": "Emmenopterys"
+    "lookupName": "Emmenopterys",
+    "commonName": "Emmenopterys",
+    "commonType": ""
   },
   {
-    "commonName": "Empress Tree"
+    "lookupName": "Empress Tree",
+    "commonName": "Empress Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Enkianthus"
+    "lookupName": "Enkianthus",
+    "commonName": "Enkianthus",
+    "commonType": ""
   },
   {
-    "commonName": "Epaulette Tree"
+    "lookupName": "Epaulette Tree",
+    "commonName": "Epaulette Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Euscaphis"
+    "lookupName": "Euscaphis",
+    "commonName": "Euscaphis",
+    "commonType": ""
   },
   {
-    "commonName": "False Arborvitae"
+    "lookupName": "False Arborvitae",
+    "commonName": "False Arborvitae",
+    "commonType": ""
   },
   {
-    "commonName": "False Cypress"
+    "lookupName": "False Cypress",
+    "commonName": "False Cypress",
+    "commonType": ""
   },
   {
-    "commonName": "False Indigo"
+    "lookupName": "False Indigo",
+    "commonName": "False Indigo",
+    "commonType": ""
   },
   {
-    "commonName": "False Spiraea"
+    "lookupName": "False Spiraea",
+    "commonName": "False Spiraea",
+    "commonType": ""
   },
   {
-    "commonName": "Fatshedera"
+    "lookupName": "Fatshedera",
+    "commonName": "Fatshedera",
+    "commonType": ""
   },
   {
-    "commonName": "Fatsia"
+    "lookupName": "Fatsia",
+    "commonName": "Fatsia",
+    "commonType": ""
   },
   {
-    "commonName": "Fetter-bush"
+    "lookupName": "Fetter-bush",
+    "commonName": "Fetter-bush",
+    "commonType": ""
   },
   {
-    "commonName": "Fetterbush"
+    "lookupName": "Fetterbush",
+    "commonName": "Fetterbush",
+    "commonType": ""
   },
   {
-    "commonName": "Feverbush"
+    "lookupName": "Feverbush",
+    "commonName": "Feverbush",
+    "commonType": ""
   },
   {
-    "commonName": "Fig"
+    "lookupName": "Fig",
+    "commonName": "Fig",
+    "commonType": ""
   },
   {
-    "commonName": "Filbert"
+    "lookupName": "Filbert",
+    "commonName": "Filbert",
+    "commonType": ""
   },
   {
-    "commonName": "Fir"
+    "lookupName": "Fir",
+    "commonName": "Fir",
+    "commonType": ""
   },
   {
-    "commonName": "Fire Thorn"
+    "lookupName": "Fire Thorn",
+    "commonName": "Fire Thorn",
+    "commonType": ""
   },
   {
-    "commonName": "Firmiana"
+    "lookupName": "Firmiana",
+    "commonName": "Firmiana",
+    "commonType": ""
   },
   {
-    "commonName": "Flowering Crab"
+    "lookupName": "Flowering Crab",
+    "commonName": "Flowering Crab",
+    "commonType": ""
   },
   {
-    "commonName": "Flowering Quince"
+    "lookupName": "Flowering Quince",
+    "commonName": "Flowering Quince",
+    "commonType": ""
   },
   {
-    "commonName": "Forsythia"
+    "lookupName": "Forsythia",
+    "commonName": "Forsythia",
+    "commonType": ""
   },
   {
-    "commonName": "Fortunearia"
+    "lookupName": "Fortunearia",
+    "commonName": "Fortunearia",
+    "commonType": ""
   },
   {
-    "commonName": "Franklin Tree"
+    "lookupName": "Franklin Tree",
+    "commonName": "Franklin Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Fringe Tree"
+    "lookupName": "Fringe Tree",
+    "commonName": "Fringe Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Gardenia"
+    "lookupName": "Gardenia",
+    "commonName": "Gardenia",
+    "commonType": ""
   },
   {
-    "commonName": "Giant Mallow"
+    "lookupName": "Giant Mallow",
+    "commonName": "Giant Mallow",
+    "commonType": ""
   },
   {
-    "commonName": "Giant Sequoia"
+    "lookupName": "Giant Sequoia",
+    "commonName": "Giant Sequoia",
+    "commonType": ""
   },
   {
-    "commonName": "Ginger, Wild"
+    "lookupName": "Ginger, Wild",
+    "commonName": "Wild Ginger",
+    "commonType": "Ginger"
   },
   {
-    "commonName": "Glyptostrobus"
+    "lookupName": "Glyptostrobus",
+    "commonName": "Glyptostrobus",
+    "commonType": ""
   },
   {
-    "commonName": "Gold-Dust Plant"
+    "lookupName": "Gold-Dust Plant",
+    "commonName": "Gold-Dust Plant",
+    "commonType": ""
   },
   {
-    "commonName": "Golden Larch"
+    "lookupName": "Golden Larch",
+    "commonName": "Golden Larch",
+    "commonType": ""
   },
   {
-    "commonName": "Golden-Rain Tree"
+    "lookupName": "Golden-Rain Tree",
+    "commonName": "Golden-Rain Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Goldenchain Tree"
+    "lookupName": "Goldenchain Tree",
+    "commonName": "Goldenchain Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Gordlinia"
+    "lookupName": "Gordlinia",
+    "commonName": "Gordlinia",
+    "commonType": ""
   },
   {
-    "commonName": "Grape"
+    "lookupName": "Grape",
+    "commonName": "Grape",
+    "commonType": ""
   },
   {
-    "commonName": "Grewia"
+    "lookupName": "Grewia",
+    "commonName": "Grewia",
+    "commonType": ""
   },
   {
-    "commonName": "Groundsel-Tree"
+    "lookupName": "Groundsel-Tree",
+    "commonName": "Groundsel-Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Gum, Black"
+    "lookupName": "Gum, Black",
+    "commonName": "Black Gum",
+    "commonType": "Gum"
   },
   {
-    "commonName": "Gum, Sour"
+    "lookupName": "Gum, Sour",
+    "commonName": "Sour Gum",
+    "commonType": "Gum"
   },
   {
-    "commonName": "Gum, Sweet"
+    "lookupName": "Gum, Sweet",
+    "commonName": "Sweet Gum",
+    "commonType": "Gum"
   },
   {
-    "commonName": "Hackmatack"
+    "lookupName": "Hackmatack",
+    "commonName": "Hackmatack",
+    "commonType": ""
   },
   {
-    "commonName": "Handkerchief Tree"
+    "lookupName": "Handkerchief Tree",
+    "commonName": "Handkerchief Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Hardy Orange"
+    "lookupName": "Hardy Orange",
+    "commonName": "Hardy Orange",
+    "commonType": ""
   },
   {
-    "commonName": "Hardy Rubber Tree"
+    "lookupName": "Hardy Rubber Tree",
+    "commonName": "Hardy Rubber Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Hawthorn"
+    "lookupName": "Hawthorn",
+    "commonName": "Hawthorn",
+    "commonType": ""
   },
   {
-    "commonName": "Hazel"
+    "lookupName": "Hazel",
+    "commonName": "Hazel",
+    "commonType": ""
   },
   {
-    "commonName": "Hazel, Winter"
+    "lookupName": "Hazel, Winter",
+    "commonName": "Winter Hazel",
+    "commonType": "Hazel"
   },
   {
-    "commonName": "Hazel, Witch"
+    "lookupName": "Hazel, Witch",
+    "commonName": "Witch Hazel",
+    "commonType": "Hazel"
   },
   {
-    "commonName": "Hazelnut"
+    "lookupName": "Hazelnut",
+    "commonName": "Hazelnut",
+    "commonType": ""
   },
   {
-    "commonName": "Hedge Plant"
+    "lookupName": "Hedge Plant",
+    "commonName": "Hedge Plant",
+    "commonType": ""
   },
   {
-    "commonName": "Helwingia"
+    "lookupName": "Helwingia",
+    "commonName": "Helwingia",
+    "commonType": ""
   },
   {
-    "commonName": "Hemlock"
+    "lookupName": "Hemlock",
+    "commonName": "Hemlock",
+    "commonType": ""
   },
   {
-    "commonName": "Hemlock Spruce"
+    "lookupName": "Hemlock Spruce",
+    "commonName": "Hemlock Spruce",
+    "commonType": ""
   },
   {
-    "commonName": "Heptacodium"
+    "lookupName": "Heptacodium",
+    "commonName": "Heptacodium",
+    "commonType": ""
   },
   {
-    "commonName": "Hesperaloe"
+    "lookupName": "Hesperaloe",
+    "commonName": "Hesperaloe",
+    "commonType": ""
   },
   {
-    "commonName": "Hiba Arborvitae"
+    "lookupName": "Hiba Arborvitae",
+    "commonName": "Hiba Arborvitae",
+    "commonType": ""
   },
   {
-    "commonName": "Hickory"
+    "lookupName": "Hickory",
+    "commonName": "Hickory",
+    "commonType": ""
   },
   {
-    "commonName": "Himalayan sarcococca"
+    "lookupName": "Himalayan sarcococca",
+    "commonName": "Himalayan sarcococca",
+    "commonType": ""
   },
   {
-    "commonName": "Holboellia"
+    "lookupName": "Holboellia",
+    "commonName": "Holboellia",
+    "commonType": ""
   },
   {
-    "commonName": "Holly"
+    "lookupName": "Holly",
+    "commonName": "Holly",
+    "commonType": ""
   },
   {
-    "commonName": "Holly Grape"
+    "lookupName": "Holly Grape",
+    "commonName": "Holly Grape",
+    "commonType": ""
   },
   {
-    "commonName": "Honey Locust"
+    "lookupName": "Honey Locust",
+    "commonName": "Honey Locust",
+    "commonType": ""
   },
   {
-    "commonName": "Honeysuckle"
+    "lookupName": "Honeysuckle",
+    "commonName": "Honeysuckle",
+    "commonType": ""
   },
   {
-    "commonName": "Honeysuckle, Bush"
+    "lookupName": "Honeysuckle, Bush",
+    "commonName": "Bush Honeysuckle",
+    "commonType": "Honeysuckle"
   },
   {
-    "commonName": "Hop Hornbeam"
+    "lookupName": "Hop Hornbeam",
+    "commonName": "Hop Hornbeam",
+    "commonType": ""
   },
   {
-    "commonName": "Hop Tree"
+    "lookupName": "Hop Tree",
+    "commonName": "Hop Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Hornbeam"
+    "lookupName": "Hornbeam",
+    "commonName": "Hornbeam",
+    "commonType": ""
   },
   {
-    "commonName": "Hornbeam, Hop"
+    "lookupName": "Hornbeam, Hop",
+    "commonName": "Hop Hornbeam",
+    "commonType": "Hornbeam"
   },
   {
-    "commonName": "Horse Chestnut"
+    "lookupName": "Horse Chestnut",
+    "commonName": "Horse Chestnut",
+    "commonType": ""
   },
   {
-    "commonName": "Huckleberry"
+    "lookupName": "Huckleberry",
+    "commonName": "Huckleberry",
+    "commonType": ""
   },
   {
-    "commonName": "Hydrangea"
+    "lookupName": "Hydrangea",
+    "commonName": "Hydrangea",
+    "commonType": ""
   },
   {
-    "commonName": "Hydrangea Vine, Japanese"
+    "lookupName": "Hydrangea Vine, Japanese",
+    "commonName": "Japanese Hydrangea Vine",
+    "commonType": "Hydrangea Vine"
   },
   {
-    "commonName": "Idesia"
+    "lookupName": "Idesia",
+    "commonName": "Idesia",
+    "commonType": ""
   },
   {
-    "commonName": "Illicium"
+    "lookupName": "Illicium",
+    "commonName": "Illicium",
+    "commonType": ""
   },
   {
-    "commonName": "Incense Cedar"
+    "lookupName": "Incense Cedar",
+    "commonName": "Incense Cedar",
+    "commonType": ""
   },
   {
-    "commonName": "Indian Bean"
+    "lookupName": "Indian Bean",
+    "commonName": "Indian Bean",
+    "commonType": ""
   },
   {
-    "commonName": "Indian Cigar Tree"
+    "lookupName": "Indian Cigar Tree",
+    "commonName": "Indian Cigar Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Indigo"
+    "lookupName": "Indigo",
+    "commonName": "Indigo",
+    "commonType": ""
   },
   {
-    "commonName": "Ironwood"
+    "lookupName": "Ironwood",
+    "commonName": "Ironwood",
+    "commonType": ""
   },
   {
-    "commonName": "Ironwood, Persian"
+    "lookupName": "Ironwood, Persian",
+    "commonName": "Persian Ironwood",
+    "commonType": "Ironwood"
   },
   {
-    "commonName": "Ivy"
+    "lookupName": "Ivy",
+    "commonName": "Ivy",
+    "commonType": ""
   },
   {
-    "commonName": "Japanese Cypress"
+    "lookupName": "Japanese Cypress",
+    "commonName": "Japanese Cypress",
+    "commonType": ""
   },
   {
-    "commonName": "Japanese Hydrangea Vine"
+    "lookupName": "Japanese Hydrangea Vine",
+    "commonName": "Japanese Hydrangea Vine",
+    "commonType": ""
   },
   {
-    "commonName": "Japanese Rose"
+    "lookupName": "Japanese Rose",
+    "commonName": "Japanese Rose",
+    "commonType": ""
   },
   {
-    "commonName": "Japanese Yew"
+    "lookupName": "Japanese Yew",
+    "commonName": "Japanese Yew",
+    "commonType": ""
   },
   {
-    "commonName": "Jasmine"
+    "lookupName": "Jasmine",
+    "commonName": "Jasmine",
+    "commonType": ""
   },
   {
-    "commonName": "Jasmine, Star"
+    "lookupName": "Jasmine, Star",
+    "commonName": "Star Jasmine",
+    "commonType": "Jasmine"
   },
   {
-    "commonName": "Jessamine"
+    "lookupName": "Jessamine",
+    "commonName": "Jessamine",
+    "commonType": ""
   },
   {
-    "commonName": "Jessamine, Yellow"
+    "lookupName": "Jessamine, Yellow",
+    "commonName": "Yellow Jessamine",
+    "commonType": "Jessamine"
   },
   {
-    "commonName": "Judas Tree"
+    "lookupName": "Judas Tree",
+    "commonName": "Judas Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Juneberry"
+    "lookupName": "Juneberry",
+    "commonName": "Juneberry",
+    "commonType": ""
   },
   {
-    "commonName": "Juniper"
+    "lookupName": "Juniper",
+    "commonName": "Juniper",
+    "commonType": ""
   },
   {
-    "commonName": "Juniper, Carpet"
+    "lookupName": "Juniper, Carpet",
+    "commonName": "Carpet Juniper",
+    "commonType": "Juniper"
   },
   {
-    "commonName": "Katsura"
+    "lookupName": "Katsura",
+    "commonName": "Katsura",
+    "commonType": ""
   },
   {
-    "commonName": "Kentucky Coffee-tree"
+    "lookupName": "Kentucky Coffee-tree",
+    "commonName": "Kentucky Coffee-tree",
+    "commonType": ""
   },
   {
-    "commonName": "Kiwi"
+    "lookupName": "Kiwi",
+    "commonName": "Kiwi",
+    "commonType": ""
   },
   {
-    "commonName": "Laburnocytisus"
+    "lookupName": "Laburnocytisus",
+    "commonName": "Laburnocytisus",
+    "commonType": ""
   },
   {
-    "commonName": "Larch"
+    "lookupName": "Larch",
+    "commonName": "Larch",
+    "commonType": ""
   },
   {
-    "commonName": "Larch, Golden"
+    "lookupName": "Larch, Golden",
+    "commonName": "Golden Larch",
+    "commonType": "Larch"
   },
   {
-    "commonName": "Laurel"
+    "lookupName": "Laurel",
+    "commonName": "Laurel",
+    "commonType": ""
   },
   {
-    "commonName": "Laurelcherry"
+    "lookupName": "Laurelcherry",
+    "commonName": "Laurelcherry",
+    "commonType": ""
   },
   {
-    "commonName": "Lead Plant"
+    "lookupName": "Lead Plant",
+    "commonName": "Lead Plant",
+    "commonType": ""
   },
   {
-    "commonName": "Leather Flower"
+    "lookupName": "Leather Flower",
+    "commonName": "Leather Flower",
+    "commonType": ""
   },
   {
-    "commonName": "Leatherwood"
+    "lookupName": "Leatherwood",
+    "commonName": "Leatherwood",
+    "commonType": ""
   },
   {
-    "commonName": "Leptodermis"
+    "lookupName": "Leptodermis",
+    "commonName": "Leptodermis",
+    "commonType": ""
   },
   {
-    "commonName": "Leptopus"
+    "lookupName": "Leptopus",
+    "commonName": "Leptopus",
+    "commonType": ""
   },
   {
-    "commonName": "Libocedrus"
+    "lookupName": "Libocedrus",
+    "commonName": "Libocedrus",
+    "commonType": ""
   },
   {
-    "commonName": "Lilac"
+    "lookupName": "Lilac",
+    "commonName": "Lilac",
+    "commonType": ""
   },
   {
-    "commonName": "Lilac, California"
+    "lookupName": "Lilac, California",
+    "commonName": "California Lilac",
+    "commonType": "Lilac"
   },
   {
-    "commonName": "Lime Tree"
+    "lookupName": "Lime Tree",
+    "commonName": "Lime Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Linden"
+    "lookupName": "Linden",
+    "commonName": "Linden",
+    "commonType": ""
   },
   {
-    "commonName": "Locust, Honey"
+    "lookupName": "Locust, Honey",
+    "commonName": "Honey Locust",
+    "commonType": "Locust"
   },
   {
-    "commonName": "Loropetalum"
+    "lookupName": "Loropetalum",
+    "commonName": "Loropetalum",
+    "commonType": ""
   },
   {
-    "commonName": "Maackia"
+    "lookupName": "Maackia",
+    "commonName": "Maackia",
+    "commonType": ""
   },
   {
-    "commonName": "Magnolia"
+    "lookupName": "Magnolia",
+    "commonName": "Magnolia",
+    "commonType": ""
   },
   {
-    "commonName": "Magnolia Vine"
+    "lookupName": "Magnolia Vine",
+    "commonName": "Magnolia Vine",
+    "commonType": ""
   },
   {
-    "commonName": "Mahoberberis"
+    "lookupName": "Mahoberberis",
+    "commonName": "Mahoberberis",
+    "commonType": ""
   },
   {
-    "commonName": "Maidenhair Tree"
+    "lookupName": "Maidenhair Tree",
+    "commonName": "Maidenhair Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Mallow"
+    "lookupName": "Mallow",
+    "commonName": "Mallow",
+    "commonType": ""
   },
   {
-    "commonName": "Maple"
+    "lookupName": "Maple",
+    "commonName": "Maple",
+    "commonType": ""
   },
   {
-    "commonName": "Mockorange"
+    "lookupName": "Mockorange",
+    "commonName": "Mockorange",
+    "commonType": ""
   },
   {
-    "commonName": "Morella"
+    "lookupName": "Morella",
+    "commonName": "Morella",
+    "commonType": ""
   },
   {
-    "commonName": "Mountain Ash"
+    "lookupName": "Mountain Ash",
+    "commonName": "Mountain Ash",
+    "commonType": ""
   },
   {
-    "commonName": "Mountain Laurel"
+    "lookupName": "Mountain Laurel",
+    "commonName": "Mountain Laurel",
+    "commonType": ""
   },
   {
-    "commonName": "Nandina"
+    "lookupName": "Nandina",
+    "commonName": "Nandina",
+    "commonType": ""
   },
   {
-    "commonName": "Neillia"
+    "lookupName": "Neillia",
+    "commonName": "Neillia",
+    "commonType": ""
   },
   {
-    "commonName": "New Jersey Tea"
+    "lookupName": "New Jersey Tea",
+    "commonName": "New Jersey Tea",
+    "commonType": ""
   },
   {
-    "commonName": "Ninebark"
+    "lookupName": "Ninebark",
+    "commonName": "Ninebark",
+    "commonType": ""
   },
   {
-    "commonName": "Oak"
+    "lookupName": "Oak",
+    "commonName": "Oak",
+    "commonType": ""
   },
   {
-    "commonName": "Oleaster"
+    "lookupName": "Oleaster",
+    "commonName": "Oleaster",
+    "commonType": ""
   },
   {
-    "commonName": "Orange, Hardy"
+    "lookupName": "Orange, Hardy",
+    "commonName": "Hardy Orange",
+    "commonType": "Orange"
   },
   {
-    "commonName": "Orange, Trifoliate"
+    "lookupName": "Orange, Trifoliate",
+    "commonName": "Trifoliate Orange",
+    "commonType": "Orange"
   },
   {
-    "commonName": "Oregon Grape"
+    "lookupName": "Oregon Grape",
+    "commonName": "Oregon Grape",
+    "commonType": ""
   },
   {
-    "commonName": "Orixa"
+    "lookupName": "Orixa",
+    "commonName": "Orixa",
+    "commonType": ""
   },
   {
-    "commonName": "Osier"
+    "lookupName": "Osier",
+    "commonName": "Osier",
+    "commonType": ""
   },
   {
-    "commonName": "Osmanthus"
+    "lookupName": "Osmanthus",
+    "commonName": "Osmanthus",
+    "commonType": ""
   },
   {
-    "commonName": "Oxydendron"
+    "lookupName": "Oxydendron",
+    "commonName": "Oxydendron",
+    "commonType": ""
   },
   {
-    "commonName": "Pagoda-tree"
+    "lookupName": "Pagoda-tree",
+    "commonName": "Pagoda-tree",
+    "commonType": ""
   },
   {
-    "commonName": "Passion Flower"
+    "lookupName": "Passion Flower",
+    "commonName": "Passion Flower",
+    "commonType": ""
   },
   {
-    "commonName": "Pawpaw"
+    "lookupName": "Pawpaw",
+    "commonName": "Pawpaw",
+    "commonType": ""
   },
   {
-    "commonName": "Peach"
+    "lookupName": "Peach",
+    "commonName": "Peach",
+    "commonType": ""
   },
   {
-    "commonName": "Pear"
+    "lookupName": "Pear",
+    "commonName": "Pear",
+    "commonType": ""
   },
   {
-    "commonName": "Pear, Prickly"
+    "lookupName": "Pear, Prickly",
+    "commonName": "Prickly Pear",
+    "commonType": "Pear"
   },
   {
-    "commonName": "Pearlbush"
+    "lookupName": "Pearlbush",
+    "commonName": "Pearlbush",
+    "commonType": ""
   },
   {
-    "commonName": "Peony"
+    "lookupName": "Peony",
+    "commonName": "Peony",
+    "commonType": ""
   },
   {
-    "commonName": "Persea"
+    "lookupName": "Persea",
+    "commonName": "Persea",
+    "commonType": ""
   },
   {
-    "commonName": "Persian Ironwood"
+    "lookupName": "Persian Ironwood",
+    "commonName": "Persian Ironwood",
+    "commonType": ""
   },
   {
-    "commonName": "Persimmon"
+    "lookupName": "Persimmon",
+    "commonName": "Persimmon",
+    "commonType": ""
   },
   {
-    "commonName": "Photinia"
+    "lookupName": "Photinia",
+    "commonName": "Photinia",
+    "commonType": ""
   },
   {
-    "commonName": "Pine"
+    "lookupName": "Pine",
+    "commonName": "Pine",
+    "commonType": ""
   },
   {
-    "commonName": "Pine, Umbrella"
+    "lookupName": "Pine, Umbrella",
+    "commonName": "Umbrella Pine",
+    "commonType": "Pine"
   },
   {
-    "commonName": "Pipe Vine"
+    "lookupName": "Pipe Vine",
+    "commonName": "Pipe Vine",
+    "commonType": ""
   },
   {
-    "commonName": "Pistachio"
+    "lookupName": "Pistachio",
+    "commonName": "Pistachio",
+    "commonType": ""
   },
   {
-    "commonName": "Plane"
+    "lookupName": "Plane",
+    "commonName": "Plane",
+    "commonType": ""
   },
   {
-    "commonName": "Plane Tree"
+    "lookupName": "Plane Tree",
+    "commonName": "Plane Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Pleioblastus"
+    "lookupName": "Pleioblastus",
+    "commonName": "Pleioblastus",
+    "commonType": ""
   },
   {
-    "commonName": "Plum"
+    "lookupName": "Plum",
+    "commonName": "Plum",
+    "commonType": ""
   },
   {
-    "commonName": "Plum Yew"
+    "lookupName": "Plum Yew",
+    "commonName": "Plum Yew",
+    "commonType": ""
   },
   {
-    "commonName": "Poliothyrsis"
+    "lookupName": "Poliothyrsis",
+    "commonName": "Poliothyrsis",
+    "commonType": ""
   },
   {
-    "commonName": "Pomegranate"
+    "lookupName": "Pomegranate",
+    "commonName": "Pomegranate",
+    "commonType": ""
   },
   {
-    "commonName": "Pricker"
+    "lookupName": "Pricker",
+    "commonName": "Pricker",
+    "commonType": ""
   },
   {
-    "commonName": "Prickly Pear"
+    "lookupName": "Prickly Pear",
+    "commonName": "Prickly Pear",
+    "commonType": ""
   },
   {
-    "commonName": "Princess Tree"
+    "lookupName": "Princess Tree",
+    "commonName": "Princess Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Privet"
+    "lookupName": "Privet",
+    "commonName": "Privet",
+    "commonType": ""
   },
   {
-    "commonName": "Pteroceltis"
+    "lookupName": "Pteroceltis",
+    "commonName": "Pteroceltis",
+    "commonType": ""
   },
   {
-    "commonName": "Quince, Flowering"
+    "lookupName": "Quince, Flowering",
+    "commonName": "Flowering Quince",
+    "commonType": "Quince"
   },
   {
-    "commonName": "Raisin Tree"
+    "lookupName": "Raisin Tree",
+    "commonName": "Raisin Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Raspberry"
+    "lookupName": "Raspberry",
+    "commonName": "Raspberry",
+    "commonType": ""
   },
   {
-    "commonName": "Redbud"
+    "lookupName": "Redbud",
+    "commonName": "Redbud",
+    "commonType": ""
   },
   {
-    "commonName": "Redroot"
+    "lookupName": "Redroot",
+    "commonName": "Redroot",
+    "commonType": ""
   },
   {
-    "commonName": "Redwood"
+    "lookupName": "Redwood",
+    "commonName": "Redwood",
+    "commonType": ""
   },
   {
-    "commonName": "Redwood, Dawn"
+    "lookupName": "Redwood, Dawn",
+    "commonName": "Dawn Redwood",
+    "commonType": "Redwood"
   },
   {
-    "commonName": "Rhapidophyllum"
+    "lookupName": "Rhapidophyllum",
+    "commonName": "Rhapidophyllum",
+    "commonType": ""
   },
   {
-    "commonName": "Rhododendron"
+    "lookupName": "Rhododendron",
+    "commonName": "Rhododendron",
+    "commonType": ""
   },
   {
-    "commonName": "Rhodoleia"
+    "lookupName": "Rhodoleia",
+    "commonName": "Rhodoleia",
+    "commonType": ""
   },
   {
-    "commonName": "Rose"
+    "lookupName": "Rose",
+    "commonName": "Rose",
+    "commonType": ""
   },
   {
-    "commonName": "Rose Mallow"
+    "lookupName": "Rose Mallow",
+    "commonName": "Rose Mallow",
+    "commonType": ""
   },
   {
-    "commonName": "Rose, Japanese"
+    "lookupName": "Rose, Japanese",
+    "commonName": "Japanese Rose",
+    "commonType": "Rose"
   },
   {
-    "commonName": "Rubber Tree, Hardy"
+    "lookupName": "Rubber Tree, Hardy",
+    "commonName": "Hardy Rubber Tree",
+    "commonType": "Rubber Tree"
   },
   {
-    "commonName": "Ruscus"
+    "lookupName": "Ruscus",
+    "commonName": "Ruscus",
+    "commonType": ""
   },
   {
-    "commonName": "Sabal"
+    "lookupName": "Sabal",
+    "commonName": "Sabal",
+    "commonType": ""
   },
   {
-    "commonName": "Sarsparilla, Wild"
+    "lookupName": "Sarsparilla, Wild",
+    "commonName": "Wild Sarsparilla",
+    "commonType": "Sarsparilla"
   },
   {
-    "commonName": "Sarviceberry"
+    "lookupName": "Sarviceberry",
+    "commonName": "Sarviceberry",
+    "commonType": ""
   },
   {
-    "commonName": "Sassafras"
+    "lookupName": "Sassafras",
+    "commonName": "Sassafras",
+    "commonType": ""
   },
   {
-    "commonName": "Schefflera"
+    "lookupName": "Schefflera",
+    "commonName": "Schefflera",
+    "commonType": ""
   },
   {
-    "commonName": "Scholar Tree"
+    "lookupName": "Scholar Tree",
+    "commonName": "Scholar Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Sequoia"
+    "lookupName": "Sequoia",
+    "commonName": "Sequoia",
+    "commonType": ""
   },
   {
-    "commonName": "Serviceberry"
+    "lookupName": "Serviceberry",
+    "commonName": "Serviceberry",
+    "commonType": ""
   },
   {
-    "commonName": "Shad"
+    "lookupName": "Shad",
+    "commonName": "Shad",
+    "commonType": ""
   },
   {
-    "commonName": "Shadblow"
+    "lookupName": "Shadblow",
+    "commonName": "Shadblow",
+    "commonType": ""
   },
   {
-    "commonName": "Shadbush"
+    "lookupName": "Shadbush",
+    "commonName": "Shadbush",
+    "commonType": ""
   },
   {
-    "commonName": "Shrubby Bittersweet"
+    "lookupName": "Shrubby Bittersweet",
+    "commonName": "Shrubby Bittersweet",
+    "commonType": ""
   },
   {
-    "commonName": "Shrubby Trefoil"
+    "lookupName": "Shrubby Trefoil",
+    "commonName": "Shrubby Trefoil",
+    "commonType": ""
   },
   {
-    "commonName": "Siberian Cypress"
+    "lookupName": "Siberian Cypress",
+    "commonName": "Siberian Cypress",
+    "commonType": ""
   },
   {
-    "commonName": "Silver-Bell"
+    "lookupName": "Silver-Bell",
+    "commonName": "Silver-Bell",
+    "commonType": ""
   },
   {
-    "commonName": "Silver-Bell Tree"
+    "lookupName": "Silver-Bell Tree",
+    "commonName": "Silver-Bell Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Sinarundinaria"
+    "lookupName": "Sinarundinaria",
+    "commonName": "Sinarundinaria",
+    "commonType": ""
   },
   {
-    "commonName": "Sinowilsonia"
+    "lookupName": "Sinowilsonia",
+    "commonName": "Sinowilsonia",
+    "commonType": ""
   },
   {
-    "commonName": "Skimmia"
+    "lookupName": "Skimmia",
+    "commonName": "Skimmia",
+    "commonType": ""
   },
   {
-    "commonName": "Smoke Tree"
+    "lookupName": "Smoke Tree",
+    "commonName": "Smoke Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Smokebush"
+    "lookupName": "Smokebush",
+    "commonName": "Smokebush",
+    "commonType": ""
   },
   {
-    "commonName": "Snow-Wreath"
+    "lookupName": "Snow-Wreath",
+    "commonName": "Snow-Wreath",
+    "commonType": ""
   },
   {
-    "commonName": "Snowbell"
+    "lookupName": "Snowbell",
+    "commonName": "Snowbell",
+    "commonType": ""
   },
   {
-    "commonName": "Snowdrop Tree"
+    "lookupName": "Snowdrop Tree",
+    "commonName": "Snowdrop Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Sour Gum"
+    "lookupName": "Sour Gum",
+    "commonName": "Sour Gum",
+    "commonType": ""
   },
   {
-    "commonName": "Sourwood"
+    "lookupName": "Sourwood",
+    "commonName": "Sourwood",
+    "commonType": ""
   },
   {
-    "commonName": "Spicebush"
+    "lookupName": "Spicebush",
+    "commonName": "Spicebush",
+    "commonType": ""
   },
   {
-    "commonName": "Spikenard, American"
+    "lookupName": "Spikenard, American",
+    "commonName": "American Spikenard",
+    "commonType": "Spikenard"
   },
   {
-    "commonName": "Spindle Tree"
+    "lookupName": "Spindle Tree",
+    "commonName": "Spindle Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Spiraea"
+    "lookupName": "Spiraea",
+    "commonName": "Spiraea",
+    "commonType": ""
   },
   {
-    "commonName": "Spiraea, False"
+    "lookupName": "Spiraea, False",
+    "commonName": "False Spiraea",
+    "commonType": "Spiraea"
   },
   {
-    "commonName": "Spirea"
+    "lookupName": "Spirea",
+    "commonName": "Spirea",
+    "commonType": ""
   },
   {
-    "commonName": "Spruce"
+    "lookupName": "Spruce",
+    "commonName": "Spruce",
+    "commonType": ""
   },
   {
-    "commonName": "Spruce, Hemlock"
+    "lookupName": "Spruce, Hemlock",
+    "commonName": "Hemlock Spruce",
+    "commonType": "Spruce"
   },
   {
-    "commonName": "Spurge"
+    "lookupName": "Spurge",
+    "commonName": "Spurge",
+    "commonType": ""
   },
   {
-    "commonName": "St.-John's-Wort"
+    "lookupName": "St.-John's-Wort",
+    "commonName": "St.-John's-Wort",
+    "commonType": ""
   },
   {
-    "commonName": "Stachyurus"
+    "lookupName": "Stachyurus",
+    "commonName": "Stachyurus",
+    "commonType": ""
   },
   {
-    "commonName": "Star Jasmine"
+    "lookupName": "Star Jasmine",
+    "commonName": "Star Jasmine",
+    "commonType": ""
   },
   {
-    "commonName": "Stauntonia"
+    "lookupName": "Stauntonia",
+    "commonName": "Stauntonia",
+    "commonType": ""
   },
   {
-    "commonName": "Stephanandra"
+    "lookupName": "Stephanandra",
+    "commonName": "Stephanandra",
+    "commonType": ""
   },
   {
-    "commonName": "Stewartia"
+    "lookupName": "Stewartia",
+    "commonName": "Stewartia",
+    "commonType": ""
   },
   {
-    "commonName": "Storax"
+    "lookupName": "Storax",
+    "commonName": "Storax",
+    "commonType": ""
   },
   {
-    "commonName": "Stranvaesia"
+    "lookupName": "Stranvaesia",
+    "commonName": "Stranvaesia",
+    "commonType": ""
   },
   {
-    "commonName": "Styphnolobium"
+    "lookupName": "Styphnolobium",
+    "commonName": "Styphnolobium",
+    "commonType": ""
   },
   {
-    "commonName": "Sugarplum"
+    "lookupName": "Sugarplum",
+    "commonName": "Sugarplum",
+    "commonType": ""
   },
   {
-    "commonName": "Sumac"
+    "lookupName": "Sumac",
+    "commonName": "Sumac",
+    "commonType": ""
   },
   {
-    "commonName": "Sweet Gum"
+    "lookupName": "Sweet Gum",
+    "commonName": "Sweet Gum",
+    "commonType": ""
   },
   {
-    "commonName": "Sweet Spires"
+    "lookupName": "Sweet Spires",
+    "commonName": "Sweet Spires",
+    "commonType": ""
   },
   {
-    "commonName": "Sycamore"
+    "lookupName": "Sycamore",
+    "commonName": "Sycamore",
+    "commonType": ""
   },
   {
-    "commonName": "Sycoparrotia"
+    "lookupName": "Sycoparrotia",
+    "commonName": "Sycoparrotia",
+    "commonType": ""
   },
   {
-    "commonName": "Sycopsis"
+    "lookupName": "Sycopsis",
+    "commonName": "Sycopsis",
+    "commonType": ""
   },
   {
-    "commonName": "Tamarack"
+    "lookupName": "Tamarack",
+    "commonName": "Tamarack",
+    "commonType": ""
   },
   {
-    "commonName": "Ternstroemia"
+    "lookupName": "Ternstroemia",
+    "commonName": "Ternstroemia",
+    "commonType": ""
   },
   {
-    "commonName": "Tetracentron"
+    "lookupName": "Tetracentron",
+    "commonName": "Tetracentron",
+    "commonType": ""
   },
   {
-    "commonName": "Thamnocalamus"
+    "lookupName": "Thamnocalamus",
+    "commonName": "Thamnocalamus",
+    "commonType": ""
   },
   {
-    "commonName": "Thorn, Fire"
+    "lookupName": "Thorn, Fire",
+    "commonName": "Fire Thorn",
+    "commonType": "Thorn"
   },
   {
-    "commonName": "Titi"
+    "lookupName": "Titi",
+    "commonName": "Titi",
+    "commonType": ""
   },
   {
-    "commonName": "Toona"
+    "lookupName": "Toona",
+    "commonName": "Toona",
+    "commonType": ""
   },
   {
-    "commonName": "Torreya"
+    "lookupName": "Torreya",
+    "commonName": "Torreya",
+    "commonType": ""
   },
   {
-    "commonName": "Trefoil, Shrubby"
+    "lookupName": "Trefoil, Shrubby",
+    "commonName": "Shrubby Trefoil",
+    "commonType": "Trefoil"
   },
   {
-    "commonName": "Trifoliate Orange"
+    "lookupName": "Trifoliate Orange",
+    "commonName": "Trifoliate Orange",
+    "commonType": ""
   },
   {
-    "commonName": "Tripterygium"
+    "lookupName": "Tripterygium",
+    "commonName": "Tripterygium",
+    "commonType": ""
   },
   {
-    "commonName": "Trochodendron"
+    "lookupName": "Trochodendron",
+    "commonName": "Trochodendron",
+    "commonType": ""
   },
   {
-    "commonName": "Trumpet Creeper"
+    "lookupName": "Trumpet Creeper",
+    "commonName": "Trumpet Creeper",
+    "commonType": ""
   },
   {
-    "commonName": "Trumpet Flower"
+    "lookupName": "Trumpet Flower",
+    "commonName": "Trumpet Flower",
+    "commonType": ""
   },
   {
-    "commonName": "Trumpet Vine"
+    "lookupName": "Trumpet Vine",
+    "commonName": "Trumpet Vine",
+    "commonType": ""
   },
   {
-    "commonName": "Tulip Poplar"
+    "lookupName": "Tulip Poplar",
+    "commonName": "Tulip Poplar",
+    "commonType": ""
   },
   {
-    "commonName": "Tulip Tree"
+    "lookupName": "Tulip Tree",
+    "commonName": "Tulip Tree",
+    "commonType": ""
   },
   {
-    "commonName": "Tuna"
+    "lookupName": "Tuna",
+    "commonName": "Tuna",
+    "commonType": ""
   },
   {
-    "commonName": "Tupelo"
+    "lookupName": "Tupelo",
+    "commonName": "Tupelo",
+    "commonType": ""
   },
   {
-    "commonName": "Umbrella Pine"
+    "lookupName": "Umbrella Pine",
+    "commonName": "Umbrella Pine",
+    "commonType": ""
   },
   {
-    "commonName": "Vase Vine"
+    "lookupName": "Vase Vine",
+    "commonName": "Vase Vine",
+    "commonType": ""
   },
   {
-    "commonName": "Virgin's Bower"
+    "lookupName": "Virgin's Bower",
+    "commonName": "Virgin's Bower",
+    "commonType": ""
   },
   {
-    "commonName": "Virginia Creeper"
+    "lookupName": "Virginia Creeper",
+    "commonName": "Virginia Creeper",
+    "commonType": ""
   },
   {
-    "commonName": "Virginia Willow"
+    "lookupName": "Virginia Willow",
+    "commonName": "Virginia Willow",
+    "commonType": ""
   },
   {
-    "commonName": "Vitex"
+    "lookupName": "Vitex",
+    "commonName": "Vitex",
+    "commonType": ""
   },
   {
-    "commonName": "Walnut"
+    "lookupName": "Walnut",
+    "commonName": "Walnut",
+    "commonType": ""
   },
   {
-    "commonName": "Weigela"
+    "lookupName": "Weigela",
+    "commonName": "Weigela",
+    "commonType": ""
   },
   {
-    "commonName": "Whitebeam"
+    "lookupName": "Whitebeam",
+    "commonName": "Whitebeam",
+    "commonType": ""
   },
   {
-    "commonName": "Whitewood"
+    "lookupName": "Whitewood",
+    "commonName": "Whitewood",
+    "commonType": ""
   },
   {
-    "commonName": "Wikstroemia"
+    "lookupName": "Wikstroemia",
+    "commonName": "Wikstroemia",
+    "commonType": ""
   },
   {
-    "commonName": "Wild Allspice"
+    "lookupName": "Wild Allspice",
+    "commonName": "Wild Allspice",
+    "commonType": ""
   },
   {
-    "commonName": "Wild Ginger"
+    "lookupName": "Wild Ginger",
+    "commonName": "Wild Ginger",
+    "commonType": ""
   },
   {
-    "commonName": "Wild Sarsparilla"
+    "lookupName": "Wild Sarsparilla",
+    "commonName": "Wild Sarsparilla",
+    "commonType": ""
   },
   {
-    "commonName": "Willow"
+    "lookupName": "Willow",
+    "commonName": "Willow",
+    "commonType": ""
   },
   {
-    "commonName": "Willow, Virginia"
+    "lookupName": "Willow, Virginia",
+    "commonName": "Virginia Willow",
+    "commonType": "Willow"
   },
   {
-    "commonName": "Wingnut"
+    "lookupName": "Wingnut",
+    "commonName": "Wingnut",
+    "commonType": ""
   },
   {
-    "commonName": "Winter Hazel"
+    "lookupName": "Winter Hazel",
+    "commonName": "Winter Hazel",
+    "commonType": ""
   },
   {
-    "commonName": "Wintersweet"
+    "lookupName": "Wintersweet",
+    "commonName": "Wintersweet",
+    "commonType": ""
   },
   {
-    "commonName": "Wistaria"
+    "lookupName": "Wistaria",
+    "commonName": "Wistaria",
+    "commonType": ""
   },
   {
-    "commonName": "Wisteria"
+    "lookupName": "Wisteria",
+    "commonName": "Wisteria",
+    "commonType": ""
   },
   {
-    "commonName": "Witch Alder"
+    "lookupName": "Witch Alder",
+    "commonName": "Witch Alder",
+    "commonType": ""
   },
   {
-    "commonName": "Witch Hazel"
+    "lookupName": "Witch Hazel",
+    "commonName": "Witch Hazel",
+    "commonType": ""
   },
   {
-    "commonName": "Wood-Vamp"
+    "lookupName": "Wood-Vamp",
+    "commonName": "Wood-Vamp",
+    "commonType": ""
   },
   {
-    "commonName": "Woodbine"
+    "lookupName": "Woodbine",
+    "commonName": "Woodbine",
+    "commonType": ""
   },
   {
-    "commonName": "Xanthoceras"
+    "lookupName": "Xanthoceras",
+    "commonName": "Xanthoceras",
+    "commonType": ""
   },
   {
-    "commonName": "Yellow Jessamine"
+    "lookupName": "Yellow Jessamine",
+    "commonName": "Yellow Jessamine",
+    "commonType": ""
   },
   {
-    "commonName": "Yellow-Root"
+    "lookupName": "Yellow-Root",
+    "commonName": "Yellow-Root",
+    "commonType": ""
   },
   {
-    "commonName": "Yellowwood"
+    "lookupName": "Yellowwood",
+    "commonName": "Yellowwood",
+    "commonType": ""
   },
   {
-    "commonName": "Yew"
+    "lookupName": "Yew",
+    "commonName": "Yew",
+    "commonType": ""
   },
   {
-    "commonName": "Yew, Japanese"
+    "lookupName": "Yew, Japanese",
+    "commonName": "Japanese Yew",
+    "commonType": "Yew"
   },
   {
-    "commonName": "Yew, Plum"
+    "lookupName": "Yew, Plum",
+    "commonName": "Plum Yew",
+    "commonType": "Yew"
   },
   {
-    "commonName": "Yucca"
+    "lookupName": "Yucca",
+    "commonName": "Yucca",
+    "commonType": ""
   },
   {
-    "commonName": "Zelkova"
+    "lookupName": "Zelkova",
+    "commonName": "Zelkova",
+    "commonType": ""
   },
   {
-    "commonName": "Zenobia"
+    "lookupName": "Zenobia",
+    "commonName": "Zenobia",
+    "commonType": ""
   },
   {
-    "commonName": "Ziziphus"
+    "lookupName": "Ziziphus",
+    "commonName": "Ziziphus",
+    "commonType": ""
   },
   {
-    "commonName": "beech"
+    "lookupName": "beech",
+    "commonName": "beech",
+    "commonType": ""
   },
   {
-    "commonName": "ephreda"
+    "lookupName": "ephreda",
+    "commonName": "ephreda",
+    "commonType": ""
   },
   {
-    "commonName": "hackberry"
+    "lookupName": "hackberry",
+    "commonName": "hackberry",
+    "commonType": ""
   },
   {
-    "commonName": "nettle tree"
+    "lookupName": "nettle tree",
+    "commonName": "nettle tree",
+    "commonType": ""
   },
   {
-    "commonName": "paperbush"
+    "lookupName": "paperbush",
+    "commonName": "paperbush",
+    "commonType": ""
   },
   {
-    "commonName": "sugarberry"
+    "lookupName": "sugarberry",
+    "commonName": "sugarberry",
+    "commonType": ""
   },
   {
-    "commonName": "summersweet clethra"
+    "lookupName": "summersweet clethra",
+    "commonName": "summersweet clethra",
+    "commonType": ""
   },
   {
-    "commonName": "sweet pepperbush"
+    "lookupName": "sweet pepperbush",
+    "commonName": "sweet pepperbush",
+    "commonType": ""
   },
   {
-    "commonName": "sweetbox"
+    "lookupName": "sweetbox",
+    "commonName": "sweetbox",
+    "commonType": ""
   },
   {
-    "commonName": "sweetshrub"
+    "lookupName": "sweetshrub",
+    "commonName": "sweetshrub",
+    "commonType": ""
   }
 ]
