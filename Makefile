@@ -8,3 +8,7 @@ list-plants:
 
 build:
 	go build -o bin/$(APP_NAME) main.go
+
+update:
+	go get -u ./...
+	go mod tidy
