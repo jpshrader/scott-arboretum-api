@@ -12,11 +12,12 @@ import (
 	"github.com/jpshrader/scott-arboretum-api/response"
 )
 
-type Plant struct {
-	CommonName     string `json:"commonName,omitempty"`
-	ScientificName string `json:"scientificName,omitempty"`
-	CommonType     string `json:"commonType,omitempty"`
-	LookupName     string `json:"lookupName,omitempty"`
+type plant struct {
+	Name               string   `json:"name"`
+	CommonName         string   `json:"commonName"`
+	SortName           string   `json:"sortName"`
+	PlantCateory       string   `json:"plantCategory"`
+	ArboretumLocations []string `json:"arboretumLocations"`
 }
 
 func GetPlants(w http.ResponseWriter, r *http.Request) {
@@ -26,11 +27,11 @@ func GetPlants(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	name := strings.ToLower(r.URL.Query().Get("name"))
-	if name != "" {
-		filteredPlants := []Plant{}
+	commonName := strings.ToLower(r.URL.Query().Get("commonName"))
+	if commonName != "" {
+		filteredPlants := []plant{}
 		for _, plant := range plants {
-			if strings.Contains(strings.ToLower(plant.CommonName), name) {
+			if strings.Contains(strings.ToLower(plant.CommonName), commonName) {
 				filteredPlants = append(filteredPlants, plant)
 			}
 		}
@@ -40,22 +41,22 @@ func GetPlants(w http.ResponseWriter, r *http.Request) {
 	response.JsonEncode(w, http.StatusOK, plants)
 }
 
-func readPlants(w http.ResponseWriter) ([]Plant, error) {
-	file, err := os.OpenFile("data/scott-arboretum-plant-list.json", os.O_RDONLY, fs.ModePerm)
+func readPlants(w http.ResponseWriter) ([]plant, error) {
+	file, err := os.OpenFile("data/scott-arboretum-plants.json", os.O_RDONLY, fs.ModePerm)
 	if err != nil {
-		return []Plant{}, errors.New("unable to open plant list")
+		return []plant{}, errors.New("unable to open plant list")
 	}
 
 	defer file.Close()
 	data, err := io.ReadAll(file)
 	if err != nil {
-		return []Plant{}, errors.New("unable to read plant list")
+		return []plant{}, errors.New("unable to read plant list")
 	}
 
-	plants := []Plant{}
+	plants := []plant{}
 	err = json.Unmarshal(data, &plants)
 	if err != nil {
-		return []Plant{}, errors.New("unable to parse plant list")
+		return []plant{}, errors.New("unable to parse plant list")
 	}
 
 	return plants, nil
