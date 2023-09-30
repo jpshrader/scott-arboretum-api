@@ -9,17 +9,17 @@ import (
 	"github.com/jpshrader/scott-arboretum-api/response"
 )
 
-const BASE_URL = "/api"
+const baseUrl = "/api"
 
 func main() {
 	log.Println("starting...")
-	http.HandleFunc(BASE_URL, root)
+	http.HandleFunc(baseUrl, root)
 
-	http.HandleFunc(fmt.Sprintf("%s/plants", BASE_URL), plants.GetPlants)
+	http.HandleFunc(fmt.Sprintf("%s/plants", baseUrl), plants.GetPlants)
 
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
 
 func root(w http.ResponseWriter, r *http.Request) {
-	response.JsonEncode(w, http.StatusOK, "Welcome to the Scott Arboretum Api!")
+	response.Ok(w, "welcome to the unofficial scott arboretum api")
 }

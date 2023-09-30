@@ -23,7 +23,7 @@ type plant struct {
 func GetPlants(w http.ResponseWriter, r *http.Request) {
 	plants, err := readPlants(w)
 	if err != nil {
-		response.JsonEncode(w, http.StatusInternalServerError, err.Error())
+		response.InteralServerError(w, err.Error())
 		return
 	}
 
@@ -38,7 +38,7 @@ func GetPlants(w http.ResponseWriter, r *http.Request) {
 		plants = filteredPlants
 	}
 
-	response.JsonEncode(w, http.StatusOK, plants)
+	response.Ok(w, plants)
 }
 
 func readPlants(w http.ResponseWriter) ([]plant, error) {
@@ -56,7 +56,7 @@ func readPlants(w http.ResponseWriter) ([]plant, error) {
 	plants := []plant{}
 	err = json.Unmarshal(data, &plants)
 	if err != nil {
-		return []plant{}, errors.New("unable to parse plant list")
+		return []plant{}, errors.New("unable to decode plant list")
 	}
 
 	return plants, nil
