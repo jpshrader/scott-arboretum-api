@@ -4,7 +4,7 @@ ARG VARIANT=1.21-bookworm
 FROM mcr.microsoft.com/devcontainers/go:${VARIANT}
 
 # [Choice] Node.js version: lts/*, 16, 14, 12, 10
-ARG NODE_VERSION="lts/*"
+ARG NODE_VERSION="none"
 RUN if [ "${NODE_VERSION}" != "none" ]; then su vscode -c ". /usr/local/share/nvm/nvm.sh && nvm install ${NODE_VERSION} 2>&1"; fi
 
 # [Optional] Uncomment this section to install additional OS packages.
