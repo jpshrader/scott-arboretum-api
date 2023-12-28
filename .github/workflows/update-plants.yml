@@ -17,4 +17,4 @@ jobs:
         go-version: '1.21'
 
     - name: update
-      run: make fetch_plants githubToken=${{ secrets.JPS_GITHUB_TOKEN }}
+      run: make fetch-plants githubToken=${{ secrets.JPS_GITHUB_TOKEN }}
