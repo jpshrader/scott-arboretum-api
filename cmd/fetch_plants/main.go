@@ -70,6 +70,14 @@ func main() {
 	}
 
 	log.Println("found", len(plants), "plants")
+	slices.SortFunc(plants, func(i, j plant) int {
+		if i.SortName < j.SortName {
+			return -1
+		} else if i.SortName > j.SortName {
+			return 1
+		}
+		return 0
+	})
 
 	err = writePlantListItems(plants)
 	if err != nil {
