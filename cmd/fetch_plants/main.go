@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"encoding/json"
+	"errors"
 	"flag"
 	"io"
 	"io/fs"
@@ -69,7 +70,6 @@ func main() {
 		log.Fatal("unable to parse plant list: ", err)
 	}
 
-	log.Println("found", len(plants), "plants")
 	slices.SortFunc(plants, func(i, j plant) int {
 		if i.SortName < j.SortName {
 			return -1
@@ -78,6 +78,14 @@ func main() {
 		}
 		return 0
 	})
+	existingPlantList, err := readPlants()
+	if err != nil {
+		log.Fatal("unable to read existing plant list: ", err)
+	}
+	if !plantListHasChanged(existingPlantList, plants) {
+		log.Print("no changes to plant list")
+		return
+	}
 
 	err = writePlantListItems(plants)
 	if err != nil {
@@ -118,6 +126,27 @@ func processPayload(payload arboretumPlantPayload) ([]plant, error) {
 	plants := make([]plant, 0, len(plantLookup))
 	for _, plant := range plantLookup {
 		plants = append(plants, plant)
+	}
+
+	return plants, nil
+}
+
+func readPlants() ([]plant, error) {
+	file, err := os.OpenFile(plantListPath, os.O_RDONLY, fs.ModePerm)
+	if err != nil {
+		return []plant{}, errors.New("unable to open plant list")
+	}
+
+	defer file.Close()
+	data, err := io.ReadAll(file)
+	if err != nil {
+		return []plant{}, errors.New("unable to read plant list")
+	}
+
+	plants := []plant{}
+	err = json.Unmarshal(data, &plants)
+	if err != nil {
+		return []plant{}, errors.New("unable to decode plant list")
 	}
 
 	return plants, nil
@@ -168,4 +197,18 @@ func getPlanListSha(ctx context.Context, client *github.Client) (string, error) 
 		return "", err
 	}
 	return file.GetSHA(), nil
+}
+
+func plantListHasChanged(old []plant, new []plant) bool {
+	if len(old) != len(new) {
+		return true
+	}
+
+	for i, o := range old {
+		if o.Name != new[i].Name {
+			return true
+		}
+	}
+
+	return false
 }
