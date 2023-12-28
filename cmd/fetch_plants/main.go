@@ -16,7 +16,7 @@ import (
 
 const (
 	owner             = "jpshrader"
-	slug              = "scott-arboritum-api"
+	slug              = "scott-arboretum-api"
 	plantListPath     = "./data/scott-arboretum-plants.json"
 	arboretumPlantUrl = "https://silva.swarthmore.edu/server/rest/services/Plant_Centers_Public_View/MapServer/1/query?f=json&resultOffset=0&resultRecordCount=9999&where=NAME%20IS%20NOT%20NULL&orderByFields=NAME&outFields=OBJECTID%2CACC_NUM_AND_QUAL%2CNAME%2CCOMMON_NAME_PRIMARY%2CDESCRIPTOR%2CCV_GROUP%2CETI%2CSORT_NAME%2CHABIT_FULL%2CSPEC_CHAR_FULL%2CCURRENT_LOCATION_FULL%2CCOMMON_NAME_PRIMARY&returnGeometry=false&spatialRel=esriSpatialRelIntersects"
 )
