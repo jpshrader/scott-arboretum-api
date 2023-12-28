@@ -124,7 +124,7 @@ func processPayload(payload arboretumPlantPayload) ([]plant, error) {
 }
 
 func writePlantListItems(plants []plant) error {
-	file, err := json.MarshalIndent(plants, "", "  ")
+	file, err := json.MarshalIndent(plants, "", "    ")
 	if err != nil {
 		return err
 	}
