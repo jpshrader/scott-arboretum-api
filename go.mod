@@ -1,6 +1,6 @@
 module github.com/jpshrader/scott-arboretum-api
 
-go 1.21
+go 1.22
 
 require (
 	github.com/google/go-github/v57 v57.0.0
