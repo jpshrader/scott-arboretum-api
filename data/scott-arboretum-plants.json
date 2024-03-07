@@ -699,7 +699,7 @@
         "arboretumLocations": [
             "Quad U10",
             "Quad M9",
-            "Gold Medal Garden (Quads R13 \u0026 R14)",
+            "Gold Medal Garden (Quads R13, R14)",
             "Propagation Areas"
         ]
     },
@@ -1150,7 +1150,7 @@
         "sortName": "ACER JAPONICUM YAMA KAGE",
         "plantCategory": "tree",
         "arboretumLocations": [
-            "Growing Area"
+            "3/5 Whittier (Lang Center for Civic and Social Responsibility)"
         ]
     },
     {
@@ -2199,6 +2199,15 @@
         ]
     },
     {
+        "name": "Acer rubrum [Armstrong Gold®] = 'JFS-KW78'",
+        "commonName": "red maple",
+        "sortName": "ACER RUBRUM JFSKW78 ARMSTRONG GOLD",
+        "plantCategory": "tree",
+        "arboretumLocations": [
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14"
+        ]
+    },
+    {
         "name": "Acer rubrum 'Karpick'",
         "commonName": "red maple",
         "sortName": "ACER RUBRUM KARPICK",
@@ -2245,18 +2254,18 @@
         "sortName": "ACER RUBRUM RED SUNSET FRANKSRED",
         "plantCategory": "tree",
         "arboretumLocations": [
-            "Quad M8",
+            "Quad S12",
             "Whittier Hall",
-            "Inn at Swarthmore",
+            "Quad Q17",
+            "Alice Paul Hall",
             "Quad R12",
+            "Quad M8",
+            "Inn at Swarthmore",
             "Dan West House",
-            "Gold Medal Garden (Quads R13 \u0026 R14)",
+            "Gold Medal Garden (Quads R13, R14)",
             "Mertz Hall",
             "Quad P17",
-            "Quad R6",
-            "Quad S12",
-            "Quad Q17",
-            "Alice Paul Hall"
+            "Quad R6"
         ]
     },
     {
@@ -2266,9 +2275,9 @@
         "plantCategory": "tree",
         "arboretumLocations": [
             "Quad N16",
+            "Quad P16",
             "Growing Area",
-            "Quad M15",
-            "Quad P16"
+            "Quad M15"
         ]
     },
     {
@@ -3115,7 +3124,7 @@
         "sortName": "AESCULUS PAVIA",
         "plantCategory": "shrub",
         "arboretumLocations": [
-            "Gold Medal Garden (Quads R13 \u0026 R14)",
+            "Gold Medal Garden (Quads R13, R14)",
             "Growing Area",
             "Quad S10",
             "Propagation Areas",
@@ -3479,7 +3488,8 @@
         "arboretumLocations": [
             "Propagation Areas",
             "Quad L9",
-            "Quad N7"
+            "Quad N7",
+            "Quad L10"
         ]
     },
     {
@@ -3652,6 +3662,7 @@
         "arboretumLocations": [
             "PPR Apt A (Quad Q18)",
             "PPR Apartments (Quads Q18 \u0026 Q19)",
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14",
             "Ashton House (409 Elm Av.)",
             "Palmer Hall",
             "Pollinator's Garden (between Martin Hall \u0026 Cornell Library)",
@@ -3711,6 +3722,7 @@
             "Inn at Swarthmore",
             "Quad M12",
             "Quad L10",
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14",
             "Quad M13",
             "Quad L9"
         ]
@@ -3723,6 +3735,7 @@
         "arboretumLocations": [
             "Quad M11",
             "Quad N11",
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14",
             "Quad L13"
         ]
     },
@@ -4076,6 +4089,7 @@
         "sortName": "ARONIA ARBUTIFOLIA BRILLIANTISSIMA",
         "plantCategory": "shrub",
         "arboretumLocations": [
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14",
             "Quad N9",
             "Matchbox",
             "Inn at Swarthmore",
@@ -4112,7 +4126,6 @@
         "sortName": "ARONIA MELANOCARPA GROUND HUG UCONNAM012",
         "plantCategory": "shrub",
         "arboretumLocations": [
-            "Apartment B",
             "PPR Apt B Quads (Q18 and Q19)",
             "Quad P15"
         ]
@@ -5052,7 +5065,7 @@
         "arboretumLocations": [
             "Quad L10",
             "Quad M10",
-            "Gold Medal Garden (Quads R13 \u0026 R14)",
+            "Gold Medal Garden (Quads R13, R14)",
             "Quad M9",
             "Quad R15",
             "Winter Garden (Quads L10-L11 \u0026 M10- M11)",
@@ -5734,34 +5747,6 @@
         ]
     },
     {
-        "name": "Buddleja davidii var. nanhoensis 'Alba'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII NANHOENSIS ALBA",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Propagation Areas",
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii var. nanhoensis 'Mango'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII NANHOENSIS MANGO",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "To Be Mapped"
-        ]
-    },
-    {
-        "name": "Buddleja davidii var. nanhoensis [Petite Indigo™]",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII NANHOENSIS PETITE INDIGO",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Propagation Areas"
-        ]
-    },
-    {
         "name": "Buddleja davidii 'Peace'",
         "commonName": "Butterfly Bush",
         "sortName": "BUDDLEJA DAVIDII PEACE",
@@ -5804,36 +5789,7 @@
         "sortName": "BUDDLEJA DAVIDII ROYAL RED",
         "plantCategory": "shrub",
         "arboretumLocations": [
-            "Quad M10",
-            "Terry Shane Teaching Garden (Quads P10 \u0026 Q10)"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Snow Bank'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII SNOW BANK",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'White Ball'",
-        "commonName": "butterfly-bush",
-        "sortName": "BUDDLEJA DAVIDII WHITE BALL",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble",
-            "Pollinator's Garden (between Martin Hall \u0026 Cornell Library)"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'White Bouquet'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII WHITE BOUQUET",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble"
+            "Quad M10"
         ]
     },
     {
