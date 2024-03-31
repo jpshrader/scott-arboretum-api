@@ -13,9 +13,9 @@ const baseUrl = "/api"
 
 func main() {
 	log.Println("starting...")
-	http.HandleFunc(baseUrl, root)
+	http.HandleFunc(fmt.Sprintf("GET %s", baseUrl), root)
 
-	http.HandleFunc(fmt.Sprintf("%s/plants", baseUrl), plants.GetPlants)
+	http.HandleFunc(fmt.Sprintf("GET %s/plants", baseUrl), plants.GetPlants)
 
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }

@@ -6,7 +6,7 @@ fetch-plants:
 		--githubToken=$(githubToken)
 
 build:
-	go build -o bin/$(APP_NAME) main.go
+	go build -v ./...
 
 test:
 	go test -v ./...

@@ -21,7 +21,7 @@ type plant struct {
 }
 
 func GetPlants(w http.ResponseWriter, r *http.Request) {
-	plants, err := readPlants(w)
+	plants, err := readPlants()
 	if err != nil {
 		response.InteralServerError(w, err.Error())
 		return
@@ -41,7 +41,7 @@ func GetPlants(w http.ResponseWriter, r *http.Request) {
 	response.Ok(w, plants)
 }
 
-func readPlants(w http.ResponseWriter) ([]plant, error) {
+func readPlants() ([]plant, error) {
 	file, err := os.OpenFile("data/scott-arboretum-plants.json", os.O_RDONLY, fs.ModePerm)
 	if err != nil {
 		return []plant{}, errors.New("unable to open plant list")
