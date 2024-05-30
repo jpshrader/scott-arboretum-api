@@ -3032,7 +3032,7 @@
         "sortName": "AESCULUS GLABRA LAVADAK LAVABURST",
         "plantCategory": "tree",
         "arboretumLocations": [
-            "Growing Area"
+            "Quad P14"
         ]
     },
     {
@@ -3832,9 +3832,10 @@
         "plantCategory": "vine, climber",
         "arboretumLocations": [
             "Propagation Areas",
-            "Pollinator's Garden (between Martin Hall \u0026 Cornell Library)",
+            "Beardsley Hall",
             "Isabelle Cosby Courtyard (Quad N10)",
-            "Growing Area"
+            "Growing Area",
+            "Pollinator's Garden (between Martin Hall \u0026 Cornell Library)"
         ]
     },
     {
@@ -5781,15 +5782,6 @@
         "plantCategory": "shrub",
         "arboretumLocations": [
             "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Royal Red'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII ROYAL RED",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad M10"
         ]
     },
     {
