@@ -3106,6 +3106,7 @@
             "Quad K14",
             "Summer Bloom Border (front of Old Tarble",
             "Quad L14",
+            "Parrish Hall",
             "Wister Garden"
         ]
     },
@@ -4257,6 +4258,15 @@
         ]
     },
     {
+        "name": "Asimina triloba 'Potomac'",
+        "commonName": "common pawpaw",
+        "sortName": "ASIMINA TRILOBA POTOMAC",
+        "plantCategory": "tree",
+        "arboretumLocations": [
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14"
+        ]
+    },
+    {
         "name": "Asimina triloba 'Rebecca's Gold'",
         "commonName": "Pawpaw",
         "sortName": "ASIMINA TRILOBA REBECCAS GOLD",
@@ -4301,6 +4311,15 @@
         "plantCategory": "",
         "arboretumLocations": [
             "Quad M8"
+        ]
+    },
+    {
+        "name": "Asimina triloba [Shenandoah™] = 'Wansevwan'",
+        "commonName": "common pawpaw",
+        "sortName": "ASIMINA TRILOBA WANSEVWAN SHENANDOAH",
+        "plantCategory": "tree",
+        "arboretumLocations": [
+            "Dining Center of Quads N14, N15, O13, O14, O15, P14"
         ]
     },
     {
@@ -5726,62 +5745,6 @@
         "plantCategory": "shrub",
         "arboretumLocations": [
             "Terry Shane Teaching Garden (Quads P10 \u0026 Q10)"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Ile de France'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII ILE DE FRANCE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble",
-            "Quad Q12"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Nanho Blue'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII NANHO BLUE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad R10"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Peace'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII PEACE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Pink Delight'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII PINK DELIGHT",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "To Be Mapped"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Potter's Purple'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII POTTERS PURPLE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad P9",
-            "Propagation Areas"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Purple Prince'",
-        "commonName": "butterfly-bush",
-        "sortName": "BUDDLEJA DAVIDII PURPLE PRINCE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble"
         ]
     },
     {
