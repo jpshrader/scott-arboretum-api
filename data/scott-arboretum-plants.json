@@ -49,7 +49,7 @@
         "plantCategory": "shrub",
         "arboretumLocations": [
             "Nason Garden \u0026 Outdoor Classroom (Quads N9 \u0026 O9)",
-            "Theresa Lang Garden of Fragrance (Quads N12 \u0026 N13)"
+            "Rose Garden Bed 5"
         ]
     },
     {
@@ -4234,7 +4234,7 @@
         "sortName": "ASIMINA TRILOBA MANGO",
         "plantCategory": "tree",
         "arboretumLocations": [
-            "PPR Apt A (Quad Q18)",
+            "Roberts Hall",
             "Quad L14"
         ]
     },
@@ -5687,64 +5687,6 @@
         "plantCategory": "shrub",
         "arboretumLocations": [
             "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Dartmoor'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII DARTMOOR",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Propagation Areas",
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Dubonnet'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII DUBONNET",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Empire Blue'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII EMPIRE BLUE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad Q12",
-            "Propagation Areas"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Fascination'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII FASCINATION",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad M10",
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Fortune'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII FORTUNE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Quad H15",
-            "Summer Bloom Border (front of Old Tarble"
-        ]
-    },
-    {
-        "name": "Buddleja davidii 'Glasnevin Blue'",
-        "commonName": "Butterfly Bush",
-        "sortName": "BUDDLEJA DAVIDII GLASNEVIN BLUE",
-        "plantCategory": "shrub",
-        "arboretumLocations": [
-            "Terry Shane Teaching Garden (Quads P10 \u0026 Q10)"
         ]
     },
     {
